@@ -9,7 +9,7 @@ Projects for [Professional Certificate in Computer Science for Artificial Intell
     - Minesweeper : AI to play Minesweeper.
   - Uncertainty:
     - PageRank : Evaluates pagerank using the PageRank Algorithm using corpus of HTML webpage.
-    - Heredity : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
+    - [Heredity](./Project%20Uncertainty%20-%20Heredity/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
   - Optimization
     - Crossword : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
   - Learning
