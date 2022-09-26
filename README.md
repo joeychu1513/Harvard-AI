@@ -3,13 +3,13 @@
 ![alt text](https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png)
 ## Projects
   - Search:
-    - [Degrees](./Project%20Search%20-%20Degree/) : Program that determines how many “degrees of separation” apart two actors are, based on [IMBb](https://imdb.com)
-    - [Tic-Tac-Toe](./Project%20Search%20-%20Tic%20Tac%20Toe/) : Using Minimax game theory, implementation of an AI to play Tic-Tac-Toe optimally.
+    - [Degrees](./Project%20Search%20-%20Degree/) : Program that determines how many “degrees of separation” apart two actors are, based on IMBb.
+    - [Tic-Tac-Toe](./Project%20Search%20-%20Tic%20Tac%20Toe/) : An AI to Using Minimax game Tic-Tac-Toe optimally, by using Minimax game theory.
   - Knowledge:
-    - [Knights](./Project%20Knowledge%20-%20Knights/) : Solves three classic Knights and Knave Puzzles using Symbolic Logic.
+    - [Knights](./Project%20Knowledge%20-%20Knights/) : An AI to solves Knights and Knave Puzzles using Symbolic Logic.
     - [Minesweeper](./Project%20Knowledge%20-%20Minesweeper/) : An AI to play Minesweeper.
   - Uncertainty:
-    - [PageRank](./Project%20Uncertainty%20-%20Pagerank/) : Using a Random Surfer Markov Chain and an Iterative Algorithm, write an AI to rank web pages by importance.
+    - [PageRank](./Project%20Uncertainty%20-%20Pagerank/) : An AI to rank web pages by importance, by using a Random Surfer Markov Chain and an Iterative Algorithm.
     - [Heredity](./Project%20Uncertainty%20-%20Heredity/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network, and Inference by Enumeration.
   - Optimization
     - [Crossword](./Project%20Optimisation%20-%20Crossword/) : An AI to generate crossword puzzles, using a constraint satisfaction problem model with node consistency, arc consistency and backtracking search.
