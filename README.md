@@ -1,7 +1,6 @@
 ## Projects for [Professional Certificate in Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)
 
 ![alt text](https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png)
-
 ## Projects
   - Search:
     - [Degrees](./Project%20Search%20-%20Degree/) : Program that determines how many “degrees of separation” apart two actors are, based on [IMBb](https://imdb.com)
