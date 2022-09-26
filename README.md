@@ -10,9 +10,9 @@
     - [Minesweeper](./Project%20Knowledge%20-%20Minesweeper/) : AI to play Minesweeper.
   - Uncertainty:
     - [PageRank](./Project%20Uncertainty%20-%20Pagerank/) : Evaluates pagerank using the PageRank Algorithm using corpus of HTML webpage.
-    - [Heredity](./Project%20Uncertainty%20-%20Heredity/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
+    - [Heredity](./Project%20Uncertainty%20-%20Heredity/) : an AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network, and Inference by Enumeration.
   - Optimization
-    - [Crossword](./Project%20Optimisation%20-%20Crossword/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
+    - [Crossword](./Project%20Optimisation%20-%20Crossword/) : an AI to generate crossword puzzles, using a constraint satisfaction problem model with node consistency, arc consistency and backtracking search.
   - Learning
     - [Shopping](./Project%20Learning%20-%20Shopping/) : An AI to predict whether online shopping customers will complete a purchase.
     - [Nim](./Project%20Learning%20-%20Nim/) : An AI that teaches itself to play Nim through reinforcement learning.
