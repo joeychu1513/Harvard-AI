@@ -17,7 +17,7 @@
     - [Shopping](./Project%20Learning%20-%20Shopping/) : An AI to predict whether online shopping customers will complete a purchase.
     - [Nim](./Project%20Learning%20-%20Nim/) : An AI that teaches itself to play Nim through reinforcement learning.
   - Neural Networks
-    - [Traffic](./Project%20Neural%20Networks%20-%20Traffic/) : An AI AI to identify which traffic sign appears in a photograph.
+    - [Traffic](./Project%20Neural%20Networks%20-%20Traffic/) : An AI to identify which traffic sign appears in a photograph.
   - Language
     - [Parser](./Project%20Language%20-%20Parser/) : An AI to parse sentences and extract noun phrases.
     - [Questions](./Project%20Language%20-%20Questions/) : An AI to answer questions.
