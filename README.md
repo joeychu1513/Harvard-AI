@@ -3,7 +3,7 @@
 ![alt text](https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png)
 ## Projects
   - Search:
-    - [Degrees](./Project%20Search%20-%20Degree/) : A program that determines how many “degrees of separation” apart two actors are, based on IMBb.
+    - [Degrees](./Project%20Search%20-%20Degree/) : A program that determines how many “degrees of separation” apart two actors are, based on IMDb.
     - [Tic-Tac-Toe](./Project%20Search%20-%20Tic%20Tac%20Toe/) : An AI to play Tic-Tac-Toe game optimally, by using Minimax game theory.
   - Knowledge:
     - [Knights](./Project%20Knowledge%20-%20Knights/) : An AI to solves Knights and Knave Puzzles using Symbolic Logic.
