@@ -1,6 +1,6 @@
-![alt text](https://github.com/joeychu1513/Harvard-Artificial-Intelligence-with-Python/blob/main/Project%20Search%20-%20Degree/degrees.png?raw=true)
-
 # Degrees
+
+![alt text](https://github.com/joeychu1513/Harvard-Artificial-Intelligence-with-Python/blob/main/Project%20Search%20-%20Degree/degrees.png?raw=true)
 
 ## Task
 
